@@ -1,0 +1,18 @@
+{
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "this is all sockets in my apps  this is my server side  iam gonna using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.2.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-nodemon": "^0.4.0"
+  }
+}
